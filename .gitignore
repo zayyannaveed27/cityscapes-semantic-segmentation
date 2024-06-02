@@ -1,5 +1,5 @@
 *.png
-cityscape/
+cityscapes/
 gtFine_trainvaltest/
 leftImg8bit/
 .DS_Store
